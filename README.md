@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+My name is Nolan Van Hell and I am a software engineering student looking to design, create, test, and maintain efficient, scalable, and ethical software solutions.
+My goal is to have a meaningful, positive impact on the users of the products, and the teams involved in the creation of this software.  
+  
+  
+#### How to reach me:
+- Email: [nolanvh@live.ca](mailto:nolanvh@live.ca)
+- LinkedIn: [Nolan Van Hell](www.linkedin.com/in/nolanvanhell)
+
 <!--
 **NolanVH/NolanVH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

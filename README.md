@@ -6,7 +6,7 @@ My goal is to have a meaningful, positive impact on the users of the products, a
   
 #### How to reach me:
 - Email: [nolanvh@live.ca](mailto:nolanvh@live.ca)
-- LinkedIn: [Nolan Van Hell](www.linkedin.com/in/nolanvanhell)
+- LinkedIn: [Nolan Van Hell](https://linkedin.com/in/nolanvanhell)
 
 <!--
 **NolanVH/NolanVH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

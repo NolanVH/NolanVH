@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
-<svg width="23.999999999999996" height="23.999999999999996" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+<svg width="24" height="24" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
  <g class="layer">
   <title>Layer 1</title>
-  <rect fill="#ffffff" height="19" id="svg_5" rx="0.00001" ry="0.00001" stroke="#ffffff" stroke-width="5" width="19" x="2.5" y="2.5"/>
-  <path d="m0,0l24,0l0,24l-24,0l0,-24z" fill="none" id="svg_1" transform="matrix(1 0 0 1 0 0)"/>
+  <rect fill="#ffffff" height="16" id="svg_3" rx="0.0001" ry="0.0001" stroke="#ffffff" stroke-width="5" width="16" x="4" y="4"/>
+  <path d="m0,0l24,0l0,24l-24,0l0,-24z" fill="none" id="svg_1"/>
   <path d="m18.335,18.339l-2.665,0l0,-4.177c0,-0.996 -0.02,-2.278 -1.39,-2.278c-1.389,0 -1.601,1.084 -1.601,2.205l0,4.25l-2.666,0l0,-8.589l2.56,0l0,1.17l0.035,0c0.358,-0.674 1.228,-1.387 2.528,-1.387c2.7,0 3.2,1.778 3.2,4.091l0,4.715l-0.001,0zm-11.332,-9.764a1.546,1.546 0 0 1 -1.548,-1.549a1.548,1.548 0 1 1 1.547,1.549l0.001,0zm1.336,9.764l-2.673,0l0,-8.589l2.674,0l0,8.589l-0.001,0zm11.331,-15.339l-15.341,0c-0.736,0 -1.329,0.58 -1.329,1.297l0,15.406c0,0.717 0.594,1.297 1.328,1.297l15.338,0c0.734,0 1.334,-0.58 1.334,-1.297l0,-15.406c0,-0.717 -0.6,-1.297 -1.334,-1.297l0.003,0l0.001,0z" fill="#000" id="svg_2"/>
  </g>
 </svg>

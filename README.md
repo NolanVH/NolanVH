@@ -13,7 +13,7 @@
         How to reach me:
     </h4>
     <div>
-        <a href="mailto:nolanvh@live.ca" title="Email: nolanvh@live.ca"><img src="https://raw.githubusercontent.com/NolanVH/NolanVH/main/Assets/mail-fill.svg"> Email: nolanvh@live.ca&emsp;&emsp;</a>
+        <a href="mailto:nolanvh@live.ca" title="Email: nolanvh@live.ca"><img src="https://raw.githubusercontent.com/NolanVH/NolanVH/main/Assets/mail-fill.svg"> Email: nolanvh@live.ca</a>&emsp;&emsp;
         <a href="https://www.linkedin.com/in/nolanvanhell/" title="LinkedIn: Nolan Van Hell"><img src="https://raw.githubusercontent.com/NolanVH/NolanVH/main/Assets/linkedin-box-fill.svg"> LinkedIn: nolanvanhell</a>
     </div>
 </div>
